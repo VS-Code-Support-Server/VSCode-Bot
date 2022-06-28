@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "dist/bot.js",
 	"scripts": {
-		"start": "node ."
+		"start": "ts-node ."
 	},
 	"author": "koki1019",
 	"license": "ISC",
